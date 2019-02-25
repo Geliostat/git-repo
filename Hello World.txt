@@ -1,1 +1,5 @@
-print("Hello World");
+print("Hello World")
+int a = 3;
+int b = 4;
+int c = a + b;
+Console.Write(ñ);
